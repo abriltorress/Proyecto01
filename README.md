@@ -2,7 +2,7 @@
 ### como mostrar un hola mundo
 - Crear un nuevo proyecto con la plantilla **"empty activity"**
 - Dale un nombre al proyecto. Ej: *"Holamundo"* y despues apreta *finish*
-- Cuando el  preoyecto se creo vas a la carpeta **activity_main.xml**
+- Cuando el  proyecto se creo vas a la carpeta **activity_main.xml**
 - Copia y pega:
 ~~~
   <?xml version="1.0" encoding="utf-8"?>
